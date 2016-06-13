@@ -1,5 +1,5 @@
 <?php 
-
+echo 'Welcome the world of Docker from index.php!';
 
 private function checkSignature()
 {
